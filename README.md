@@ -13,7 +13,7 @@ QA → IT Admin → Ethical Hacker (2026–2029)
 
 ## Čo práve robím
 
-- **Security:** ČTÚ + Stratosphere Laboratory kurz, Cisco Ethical Hacker → [cyber-sec-journey](./cyber-sec-journey)
+- **Security:** ČTÚ + Stratosphere Laboratory kurz, Cisco Ethical Hacker → - [cyber-sec-journey](https://github.com/Frantisek-Rados/cyber-sec-journey) – security
 - **IT Admin:** homelab, Linux, Windows Server, siete → - [it-admin-lab](https://github.com/Frantisek-Rados/it-admin-lab) – IT admin
 - **QA:** automatizované testy → [qa-portfolio](https://github.com/Frantisek-Rados/qa-portfolio)
 
