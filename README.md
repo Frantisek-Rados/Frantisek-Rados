@@ -29,12 +29,3 @@
 
 - LinkedIn: [františek-radoš](https://www.linkedin.com/in/franti%C5%A1ek-rado%C5%A1/)
 - Web: [frantisek-rados.github.io](https://frantisek-rados.github.io)
-| cyber-sec-journey | Security | Kurzy, PortSwigger writeupy, progres |
-| it-admin-lab | IT Admin | Linux, Windows Server, Docker, siete |
-| e2e-security-tests | Security + QA | E2E a bezpečnostné testy |
-| qa-portfolio | QA | Portfólio QA projektov |
-
-## Kontakt
-
-- LinkedIn: [františek-radoš](https://www.linkedin.com/in/franti%C5%A1ek-rado%C5%A1/)
-- Web: [frantisek-rados.github.io](https://frantisek-rados.github.io)
