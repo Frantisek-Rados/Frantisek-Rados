@@ -1,16 +1,32 @@
-## Hi there 👋
+# František Radoš
 
-<!--
-**Frantisek-Rados/Frantisek-Rados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior IT Support | Windows & Networking | Security Enthusiast**
 
-Here are some ideas to get you started:
+QA → IT Admin → Ethical Hacker (2026–2029)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Kto som
+
+- 5 rokov praxe v servise a diagnostike technických zariadení (SETEC)
+- Absolvent Python Programmer (IT Academy)
+- Aktuálne: Introduction to Security (ČTÚ + Stratosphere Laboratory, ČVUT) + Ethical Hacker (Cisco Networking Academy)
+- Cieľ: stať sa etickým hackerom / penetračným testerom
+
+## Čo práve robím
+
+- **Security:** ČTÚ + Stratosphere Laboratory kurz, Cisco Ethical Hacker → [cyber-sec-journey](./cyber-sec-journey)
+- **IT Admin:** homelab, Linux, Windows Server, siete → [it-admin-lab](./it-admin-lab)
+- **QA:** automatizované testy → [qa-portfolio](https://github.com/Frantisek-Rados/qa-portfolio)
+
+## Kľúčové repozitáre
+
+| Repo | Oblasť | Popis |
+|------|--------|-------|
+| cyber-sec-journey | Security | Kurzy, PortSwigger writeupy, progres |
+| it-admin-lab | IT Admin | Linux, Windows Server, Docker, siete |
+| e2e-security-tests | Security + QA | E2E a bezpečnostné testy |
+| qa-portfolio | QA | Portfólio QA projektov |
+
+## Kontakt
+
+- LinkedIn: [františekradoš](www.linkedin.com/in/františek-radoš)
+- Web: [frantisek-rados.github.io](https://frantisek-rados.github.io)
