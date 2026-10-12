@@ -28,5 +28,5 @@ QA → IT Admin → Ethical Hacker (2026–2029)
 
 ## Kontakt
 
-- LinkedIn: [františek radoš](www.linkedin.com/in/františek-radoš)
+- LinkedIn: [františek-radoš](https://www.linkedin.com/in/franti%C5%A1ek-rado%C5%A1/)
 - Web: [frantisek-rados.github.io](https://frantisek-rados.github.io)
