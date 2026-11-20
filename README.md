@@ -20,6 +20,7 @@
 
 | Repo | Oblasť | Popis |
 |------|--------|-------|
+| [ai-security-lab](https://github.com/Frantisek-Rados/ai-security-lab) | AI Security | AI-assisted pentest a AI security research |
 | [cyber-sec-journey](https://github.com/Frantisek-Rados/cyber-sec-journey) | Security | Kurzy, PortSwigger writeupy, progres |
 | [it-admin-lab](https://github.com/Frantisek-Rados/it-admin-lab) | IT Admin | Linux, Windows Server, Docker, siete |
 | [e2e-security-tests](https://github.com/Frantisek-Rados/e2e-security-tests) | Security + QA | E2E a bezpečnostné testy |
