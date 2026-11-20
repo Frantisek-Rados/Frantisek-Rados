@@ -12,6 +12,7 @@
 
 ## Čo práve robím
 
+- **AI Security:** AI-assisted pentest, LLM security research → [ai-security-lab](https://github.com/Frantisek-Rados/ai-security-lab)
 - **Security:** ČTÚ + Stratosphere Laboratory, Cisco Ethical Hacker → [cyber-sec-journey](https://github.com/Frantisek-Rados/cyber-sec-journey)
 - **IT Admin:** homelab, Linux, Windows Server, siete → [it-admin-lab](https://github.com/Frantisek-Rados/it-admin-lab)
 - **QA:** automatizované testy → [qa-portfolio](https://github.com/Frantisek-Rados/qa-portfolio)
