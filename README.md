@@ -7,7 +7,7 @@
 
 - 5 rokov praxe v servise a diagnostike technických zariadení
 - Absolvent Python Programmer (IT Academy)
-- Aktuálne: Introduction to Security (ČTÚ + Stratosphere Laboratory, ČVUT) a Ethical Hacker (Cisco Networking Academy)
+- Aktuálne: Introduction to Security (ČTÚ + Stratosphere Laboratory, ČVUT)
 - Cieľ: stať sa etickým hackerom / penetračným testerom
 
 ## Čo práve robím
