@@ -1,7 +1,7 @@
 # František Radoš
 
 **Junior IT Specialist | Learning Ethical Hacking**
-ČTÚ + Stratosphere Lab, Cisco Networking Academy
+ČTÚ + Stratosphere Lab,
 
 ## Kto som
 
